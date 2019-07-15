@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "dotenv": "^8.0.0",
+    "fs-extra": "^8.1.0",
+    "nanoid": "^2.0.3",
+    "ora": "^3.4.0",
+    "puppeteer": "^1.18.1",
+    "yauzl": "^2.10.0"
+  }
+}
